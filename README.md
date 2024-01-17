@@ -43,7 +43,7 @@ Visit the [Task Manager Web Application](https://taskmanager-3qe6.onrender.com) 
 
 ## Contributors
 
-Amir Ghari: Frontend design and development.
-Khai Cao: Backend logic and algorithms.
+- Amir Ghari: Frontend design and development.
+- Khai Cao: Backend logic and algorithms.
 
 
