@@ -34,7 +34,7 @@ Visit the [Task Manager Web Application](https://taskmanager-3qe6.onrender.com) 
 
 1. Clone the repository:
 
-   git clone https://github.com/amirghari/task-manager-app.git
+   git clone https://github.com/amirghari/WebProject.git
    
 2. cd task-manager-app
 3. cd frontend && npm install
